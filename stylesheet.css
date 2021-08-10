@@ -1,0 +1,15 @@
+table{
+    font-family:Helvetica, sans-serif;
+    border-collapse:initial;
+    border-width: 5px;
+    border-style: groove;
+    border-color:crimson;
+}
+th{
+    font-weight: 800;
+    background-color: crimson;
+    color:#ffffff;
+}
+h1{
+    color: crimson;
+}
